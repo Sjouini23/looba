@@ -13,7 +13,7 @@ export default function Home() {
             Rate, guess, drag, debate — <span className="gradient-text">jawna tounsi</span> pour les calls Discord.
           </h1>
           <p className="mt-4 max-w-2xl text-slate-600">
-            Lammetna = jeux sociaux pour les 9a3dat: mekla, séries, blayes, outfits, vibes. Le fun c'est le reveal w discussion, mch points.
+            Lammetna = jeux sociaux pour les 9a3dat: mekla, séries, blayes, outfits, vibes. Le fun c&apos;est le reveal w discussion, mch points.
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <Button href="/room/LMTN-73">A3mel room</Button>
